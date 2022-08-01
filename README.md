@@ -15,4 +15,25 @@ The dataset contains the following files:
   * train.csv: 39496 x 15
   * test.csv: 10500 x 14
   * sample_submission.csv: 5 x 2 
+ 
+The columns provided in the dataset are as follows:
+
+<table>
+  <tr>
+    <th>Column</th>
+    <th>Description</th>
+  </tr>
+ <tr>
+    <td>Property_ID</td>
+  </tr>
+ <tr>
+    <td>Property_ID</td>
+  </tr>
+ <tr>
+    <td>Property_ID</td>
+  </tr>
+ <tr>
+    <td>Property_ID</td>
+  </tr>
+</table>
   
