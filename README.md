@@ -25,49 +25,74 @@ The columns provided in the dataset are as follows:
   </tr>
  <tr>
     <td>Property_ID</td>
+  <td>Represents a unique identification of a property</td>
   </tr>
  <tr>
     <td>Property_Type</td>
+  <td>Represents the type of the property( Apartment, Bungalow, etc) </td>
   </tr>
  <tr>
     <td>Property_Area</td>
+  <td>Represents the area of the property in square feets</td>
   </tr>
  <tr>
     <td>Number_of_Windows</td>
+  <td>Represents the number of windows available in the property
+</td>
   </tr>
  <tr>
     <td>Number_of_Doors</td>
+  <td>Represents the number of doors available in the property
+</td>
   </tr>
  <tr>
     <td>Furnishing</td>
+  <td>Represents the furnishing type ( Fully Furnished, Semi Furnished, or Unfurnished )</td>
   </tr>
  <tr>
     <td>Frequency_of_Powercuts</td>
+  <td>Represents the average number of power cuts per week
+</td>
   </tr>
  <tr>
     <td>Power_Backup</td>
+  <td>Represents the availability of power backup
+</td>
   </tr>
  <tr>
     <td>Water_Supply</td>
+  <td>Represents the availability of water supply ( All time, Once in a day - Morning, Once in a day - Evening, and Once in two days) 
+</td>
   </tr>
  <tr>
     <td>Traffic_Density_Score</td>
+  <td>Represents the density of traffic on a scale of  1 to  10
+</td>
   </tr>
  <tr>
     <td>Crime_Rate</td>
+  <td>Represents the crime rate in the neighborhood ( Well below average, Slightly below average, Slightly above average, and  Well above average )
+</td>
   </tr>
  <tr>
     <td>Dust_and_Noise</td>
+  <td>Represents the quantity of dust and noise in the neighborhood ( High, Medium, Low )
+</td>
   </tr>
  <tr>
     <td>Air_Quality_Index</td>
+  <td>Represents the Air Quality Index of the neighborhood
+</td>
   </tr>
  <tr>
     <td>Neighborhood_Review</td>
+  <td>Represents the average ratings given to the neighborhood by the people 
+</td>
   </tr>
  <tr>
     <td>Habitability_score</td>
-  <td>Habitability_score</td>
+  <td>Represents the habitability score of the property
+</td>
   </tr>
 </table>
   
