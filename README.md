@@ -8,3 +8,11 @@ Finding the correct property to live in is a crucial task while moving to a new 
 
 ### Task
 You have given a relevant dataset about various properties in the USA. Your task is to identify the habitability score of the property.
+
+# Dataset description
+The dataset contains the following files:
+
+  * train.csv: 39496 x 15
+  * test.csv: 10500 x 14
+  * sample_submission.csv: 5 x 2 
+  
