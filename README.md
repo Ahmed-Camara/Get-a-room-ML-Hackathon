@@ -27,13 +27,47 @@ The columns provided in the dataset are as follows:
     <td>Property_ID</td>
   </tr>
  <tr>
-    <td>Property_ID</td>
+    <td>Property_Type</td>
   </tr>
  <tr>
-    <td>Property_ID</td>
+    <td>Property_Area</td>
   </tr>
  <tr>
-    <td>Property_ID</td>
+    <td>Number_of_Windows</td>
+  </tr>
+ <tr>
+    <td>Number_of_Doors</td>
+  </tr>
+ <tr>
+    <td>Furnishing</td>
+  </tr>
+ <tr>
+    <td>Frequency_of_Powercuts</td>
+  </tr>
+ <tr>
+    <td>Power_Backup</td>
+  </tr>
+ <tr>
+    <td>Water_Supply</td>
+  </tr>
+ <tr>
+    <td>Traffic_Density_Score</td>
+  </tr>
+ <tr>
+    <td>Crime_Rate</td>
+  </tr>
+ <tr>
+    <td>Dust_and_Noise</td>
+  </tr>
+ <tr>
+    <td>Air_Quality_Index</td>
+  </tr>
+ <tr>
+    <td>Neighborhood_Review</td>
+  </tr>
+ <tr>
+    <td>Habitability_score</td>
+  <td>Habitability_score</td>
   </tr>
 </table>
   
